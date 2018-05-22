@@ -1,0 +1,8 @@
+title: Comaldave.GitHub.io
+description: Personal website hosted on Github
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
