@@ -1,2 +1,2 @@
 # comaldave.github.io
-Personal website hosted on Github
+Personal website for David Skinner hosted on Github
